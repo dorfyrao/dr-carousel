@@ -1,1 +1,1 @@
-# dr-carousel
+# Carousel Plugin
